@@ -24,6 +24,6 @@ This repository is an environment where I can learn the basics of utilizing GitH
     
 8. Branches help in the development process by creating a separate branch to develop and work on code without making changes to the main functioning one. That way you can make changes, review them for errors and bugs and get them functioning, then add them to the main thing. Using branches instead of working directly on the main branch allows you to test things without fear of messing up the main ongoing branch of the program.
    
-9. A README file 
+9. A README file is a file intended for the purpose of informing other collaborators or people of what your repository is for and about. It's important so people can know what will be in the repository and its purpose. Three essential elements that should be included in a good README are a description of what the project is, what it does, and an overview of its features. 
 
-10.
+10. Three ways one could engage with the GitHub community include creating and participating and issues - the benefit is you can gain knowledge on the topic and make knowledgeable connections with others, participating in GitHub hosted/sponsored hackathons - which lets you meet other developers you can form connections with as well as gain knowledge and you could get prizes, and participating in GitHub discussions - gaining insights and information from other users of GitHub.  
